@@ -76,6 +76,3 @@ This package is released under the MIT License.
 ## Contributing
 Feel free to open issues or submit pull requests to improve this package.
 
-## Author
-[Your Name](https://github.com/vts0)
-
